@@ -20,7 +20,7 @@ A project that extracts data from Reddit using its API, processes it with Apache
 
 Below is the high-level architecture diagram for the ETL pipeline:
 
-![Architecture Diagram]([images/architecture.png](https://github.com/sashi789/DE_REDDIT_PROJECT/blob/226665f252285d1ed87921f68f0417fb96f2f9b2/RedditDataEngineering.png))
+![Architecture Diagram] (https://github.com/sashi789/DE_REDDIT_PROJECT/blob/226665f252285d1ed87921f68f0417fb96f2f9b2/RedditDataEngineering.png)
 
 ---
 
